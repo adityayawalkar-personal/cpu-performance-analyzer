@@ -1,4 +1,3 @@
-# cpu-performance-analyzer
 <h1>⚡ CPU Performance Analyzer</h1>
 
 <p>A comprehensive benchmarking suite that measures CPU performance through high-precision pi calculations using the Chudnovsky algorithm. Includes single-core, multi-core, and parallel processing benchmarks in both Python and C.</p>
@@ -238,6 +237,3 @@ Email: your.email@example.com</p>
   <li><a href="https://en.wikipedia.org/wiki/Chudnovsky_algorithm">Chudnovsky Algorithm</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Amdahl%27s_law">Parallel Efficiency</a></li>
 </ul>
-
-<hr>
-<p><b>Made with ❤️ for CPU enthusiasts and performance analysts</b></p>
