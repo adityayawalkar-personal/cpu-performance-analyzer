@@ -163,7 +163,7 @@ cpu-performance-analyzer/
 
 <h2>👨‍💻 Author</h2>
 <p><b>Your Name</b><br>
-GitHub: <a href="https://github.com/adityayawalkar-personal">@yourusername</a><br>
+GitHub: <a href="https://github.com/adityayawalkar-personal">@adityayawalkar-personal</a><br>
 
 <!-- ==================== ACKNOWLEDGMENTS ==================== -->
 
