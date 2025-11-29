@@ -16,15 +16,12 @@
   <li><a href="#overview">Overview</a></li>
   <li><a href="#features">Features</a></li>
   <li><a href="#requirements">Requirements</a></li>
-  <li><a href="#installation">Installation</a></li>
-  <li><a href="#usage">Usage</a></li>
   <li><a href="#benchmark-versions">Benchmark Versions</a></li>
   <li><a href="#performance-metrics">Performance Metrics</a></li>
   <li><a href="#understanding-results">Understanding Results</a></li>
   <li><a href="#example-output">Example Output</a></li>
   <li><a href="#project-structure">Project Structure</a></li>
   <li><a href="#contributing">Contributing</a></li>
-  <li><a href="#license">License</a></li>
 </ul>
 
 <!-- ==================== OVERVIEW ==================== -->
@@ -95,53 +92,6 @@ brew install gmp
 pacman -S mingw-w64-x86_64-gmp
 </code></pre>
 
-<!-- ==================== INSTALLATION ==================== -->
-
-<h2 id="installation">📥 Installation</h2>
-
-<h3>Clone the Repository</h3>
-
-<pre><code>git clone https://github.com/yourusername/cpu-performance-analyzer.git
-cd cpu-performance-analyzer
-</code></pre>
-
-<h3>Install Python Dependencies</h3>
-
-<pre><code>pip install -r requirements.txt
-</code></pre>
-
-<h3>Compile C Version</h3>
-<pre><code>gcc -o cpu_benchmark_c cpu_benchmark.c -lgmp -lm -lpthread -O3
-</code></pre>
-
-<!-- ==================== USAGE ==================== -->
-
-<h2 id="usage">🚀 Usage</h2>
-
-<h3>Python - Basic Version</h3>
-
-<pre><code>python code1_basic.py
-</code></pre>
-
-<h3>Python - Comprehensive (code2_v1)</h3>
-
-<pre><code>python code2_v1_comprehensive.py
-</code></pre>
-
-<h3>Python - Multi-Core Comparison (code2_v2)</h3>
-
-<pre><code>python code2_v2_multicore.py
-</code></pre>
-
-<h3>Python - Real Speedup (code2_v3)</h3>
-
-<pre><code>python code2_v3_real_speedup.py
-</code></pre>
-
-<h3>C Version</h3>
-<pre><code>./cpu_benchmark_c
-</code></pre>
-
 <!-- ==================== PERFORMANCE METRICS ==================== -->
 
 <h2 id="performance-metrics">📊 Performance Metrics</h2>
@@ -209,17 +159,11 @@ cpu-performance-analyzer/
   <li>Submit a Pull Request</li>
 </ol>
 
-<!-- ==================== LICENSE ==================== -->
-
-<h2 id="license">📝 License</h2>
-<p>This project is licensed under MIT.</p>
-
 <!-- ==================== AUTHOR ==================== -->
 
 <h2>👨‍💻 Author</h2>
 <p><b>Your Name</b><br>
-GitHub: <a href="https://github.com/yourusername">@yourusername</a><br>
-Email: your.email@example.com</p>
+GitHub: <a href="https://github.com/adityayawalkar-personal">@yourusername</a><br>
 
 <!-- ==================== ACKNOWLEDGMENTS ==================== -->
 
