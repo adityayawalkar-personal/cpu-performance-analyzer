@@ -162,7 +162,7 @@ cpu-performance-analyzer/
 <!-- ==================== AUTHOR ==================== -->
 
 <h2>👨‍💻 Author</h2>
-<p><b>Your Name</b><br>
+<p><b>Aditya Yawalkar</b><br>
 GitHub: <a href="https://github.com/adityayawalkar-personal">@adityayawalkar-personal</a><br>
 
 <!-- ==================== ACKNOWLEDGMENTS ==================== -->
